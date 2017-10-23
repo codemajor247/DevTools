@@ -15,4 +15,4 @@
             <solid android:color="@color/transparent"/>
         </shape>
     </item>
-</selector><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/circle_button.xml --><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/build/intermediates/bundles/debug/res/drawable/circle_button.xml -->
+</selector>

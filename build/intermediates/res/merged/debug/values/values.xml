@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/attrs.xml -->
-    <eat-comment/>
     <attr format="reference" name="menuDrawerStyle"/>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/values.xml -->
-    <eat-comment/>
     <bool name="cpv_default_anim_autostart">false</bool>
     <bool name="cpv_default_is_indeterminate">false</bool>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="background_tab_pressed">#6633B5E5</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/values.xml -->
-    <eat-comment/>
     <color name="cpv_default_color">#2196F3</color>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="darkness">#66000000</color>
     <color name="default_boom_button_color">#FF4081</color>
     <color name="default_boom_button_color_pressed">#ff6297</color>
@@ -34,14 +24,35 @@
     <declare-styleable name="CircularProgressView"><attr format="float" name="cpv_progress"/><attr format="float" name="cpv_maxProgress"/><attr format="integer" name="cpv_animDuration"/><attr format="integer" name="cpv_animSwoopDuration"/><attr format="integer" name="cpv_animSyncDuration"/><attr format="color" name="cpv_color"/><attr format="dimension" name="cpv_thickness"/><attr format="boolean" name="cpv_indeterminate"/><attr format="boolean" name="cpv_animAutostart"/><attr format="integer" name="cpv_animSteps"/><attr format="float" name="cpv_startAngle"/></declare-styleable>
     <declare-styleable name="CustomCircularImageViewTheme"><attr format="reference" name="circularImageViewStyle"/></declare-styleable>
     <declare-styleable name="LikeButton"><attr format="string" name="icon_type"/><attr format="dimension|reference" name="icon_size"/><attr format="reference" name="like_drawable"/><attr format="reference" name="unlike_drawable"/><attr format="color|reference" name="dots_primary_color"/><attr format="color|reference" name="dots_secondary_color"/><attr format="color|reference" name="circle_start_color"/><attr format="color|reference" name="circle_end_color"/><attr format="boolean" name="liked"/><attr format="boolean" name="is_enabled"/><attr format="float" name="anim_scale_factor"/></declare-styleable>
-    <declare-styleable name="MenuDrawer"><attr format="reference" name="mdContentBackground"/><attr format="reference" name="mdMenuBackground"/><attr format="dimension" name="mdMenuSize"/><attr format="reference" name="mdActiveIndicator"/><attr format="boolean" name="mdDropShadowEnabled"/><attr format="dimension" name="mdDropShadowSize"/><attr format="color" name="mdDropShadowColor"/><attr format="reference" name="mdDropShadow"/><attr format="dimension" name="mdTouchBezelSize"/><attr format="boolean" name="mdAllowIndicatorAnimation"/><attr format="integer" name="mdMaxAnimationDuration"/><attr format="reference" name="mdSlideDrawable"/><attr format="string" name="mdDrawerOpenUpContentDescription"/><attr format="string" name="mdDrawerClosedUpContentDescription"/><attr format="boolean" name="mdDrawOverlay"/><attr format="enum" name="mdPosition"><enum name="left" value="0"/><enum name="top" value="1"/><enum name="right" value="2"/><enum name="bottom" value="3"/><enum name="start" value="4"/><enum name="end" value="5"/></attr></declare-styleable>
-    <declare-styleable name="NavigationTabStrip"><attr format="color" name="nts_color"/><attr format="dimension" name="nts_size"/><attr format="dimension" name="nts_weight"/><attr format="float" name="nts_factor"/><attr format="reference" name="nts_titles"/><attr format="enum" name="nts_type"><enum name="line" value="0"/><enum name="point" value="1"/></attr><attr format="enum" name="nts_gravity"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr format="string" name="nts_typeface"/><attr format="dimension" name="nts_corners_radius"/><attr format="integer" name="nts_animation_duration"/><attr format="color" name="nts_inactive_color"/><attr format="color" name="nts_active_color"/></declare-styleable>
+    <declare-styleable name="MenuDrawer"><attr format="reference" name="mdContentBackground"/><attr format="reference" name="mdMenuBackground"/><attr format="dimension" name="mdMenuSize"/><attr format="reference" name="mdActiveIndicator"/><attr format="boolean" name="mdDropShadowEnabled"/><attr format="dimension" name="mdDropShadowSize"/><attr format="color" name="mdDropShadowColor"/><attr format="reference" name="mdDropShadow"/><attr format="dimension" name="mdTouchBezelSize"/><attr format="boolean" name="mdAllowIndicatorAnimation"/><attr format="integer" name="mdMaxAnimationDuration"/><attr format="reference" name="mdSlideDrawable"/><attr format="string" name="mdDrawerOpenUpContentDescription"/><attr format="string" name="mdDrawerClosedUpContentDescription"/><attr format="boolean" name="mdDrawOverlay"/><attr format="enum" name="mdPosition">
+            <enum name="left" value="0"/>
+            <enum name="top" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="bottom" value="3"/>
+            <enum name="start" value="4"/>
+            <enum name="end" value="5"/>
+        </attr></declare-styleable>
+    <declare-styleable name="NavigationTabStrip"><attr format="color" name="nts_color"/><attr format="dimension" name="nts_size"/><attr format="dimension" name="nts_weight"/><attr format="float" name="nts_factor"/><attr format="reference" name="nts_titles"/><attr format="enum" name="nts_type">
+            <enum name="line" value="0"/>
+            <enum name="point" value="1"/>
+        </attr><attr format="enum" name="nts_gravity">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr format="string" name="nts_typeface"/><attr format="dimension" name="nts_corners_radius"/><attr format="integer" name="nts_animation_duration"/><attr format="color" name="nts_inactive_color"/><attr format="color" name="nts_active_color"/></declare-styleable>
     <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
     <declare-styleable name="RangeSeekBar"><attr format="integer|float" name="absoluteMinValue"/><attr format="integer|float" name="absoluteMaxValue"/><attr format="integer|float" name="step"/><attr format="boolean" name="singleThumb"/><attr format="boolean" name="showLabels"/><attr format="boolean" name="alwaysActive"/><attr format="boolean" name="valuesAboveThumbs"/><attr format="dimension" name="internalPadding"/><attr format="dimension" name="barHeight"/><attr format="color" name="defaultColor"/><attr format="color" name="activeColor"/><attr format="color" name="textAboveThumbsColor"/><attr format="reference" name="thumbNormal"/><attr format="reference" name="thumbPressed"/><attr format="reference" name="thumbDisabled"/><attr format="boolean" name="thumbShadow"/><attr format="color" name="thumbShadowColor"/><attr format="dimension" name="thumbShadowXOffset"/><attr format="dimension" name="thumbShadowYOffset"/><attr format="dimension" name="thumbShadowBlur"/><attr format="boolean" name="activateOnDefaultValues"/></declare-styleable>
     <declare-styleable name="ShadowLayout"><attr format="dimension" name="sl_cornerRadius"/><attr format="dimension" name="sl_shadowRadius"/><attr format="color" name="sl_shadowColor"/><attr format="dimension" name="sl_dx"/><attr format="dimension" name="sl_dy"/></declare-styleable>
-    <declare-styleable name="WaveLoadingView"><attr format="dimension" name="wlv_borderWidth"/><attr format="color" name="wlv_borderColor"/><attr format="integer" name="wlv_progressValue"/><attr format="enum" name="wlv_shapeType"><enum name="triangle" value="0"/><enum name="circle" value="1"/><enum name="square" value="2"/><enum name="rectangle" value="3"/></attr><attr format="enum" name="wlv_triangle_direction"><enum name="north" value="0"/><enum name="south" value="1"/><enum name="east" value="2"/><enum name="west" value="3"/></attr><attr format="boolean" name="wlv_round_rectangle"/><attr format="integer" name="wlv_round_rectangle_x_and_y"/><attr format="color" name="wlv_waveColor"/><attr format="color" name="wlv_wave_background_Color"/><attr format="float" name="wlv_waveAmplitude"/><attr format="string" name="wlv_titleTop"/><attr format="string" name="wlv_titleCenter"/><attr format="string" name="wlv_titleBottom"/><attr format="dimension" name="wlv_titleTopSize"/><attr format="dimension" name="wlv_titleCenterSize"/><attr format="dimension" name="wlv_titleBottomSize"/><attr format="color" name="wlv_titleTopColor"/><attr format="color" name="wlv_titleCenterColor"/><attr format="color" name="wlv_titleBottomColor"/><attr format="color" name="wlv_titleTopStrokeColor"/><attr format="dimension" name="wlv_titleTopStrokeWidth"/><attr format="color" name="wlv_titleBottomStrokeColor"/><attr format="dimension" name="wlv_titleBottomStrokeWidth"/><attr format="color" name="wlv_titleCenterStrokeColor"/><attr format="dimension" name="wlv_titleCenterStrokeWidth"/></declare-styleable>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/positive_sdps.xml -->
-    <eat-comment/>
+    <declare-styleable name="WaveLoadingView"><attr format="dimension" name="wlv_borderWidth"/><attr format="color" name="wlv_borderColor"/><attr format="integer" name="wlv_progressValue"/><attr format="enum" name="wlv_shapeType">
+            <enum name="triangle" value="0"/>
+            <enum name="circle" value="1"/>
+            <enum name="square" value="2"/>
+            <enum name="rectangle" value="3"/>
+        </attr><attr format="enum" name="wlv_triangle_direction">
+            <enum name="north" value="0"/>
+            <enum name="south" value="1"/>
+            <enum name="east" value="2"/>
+            <enum name="west" value="3"/>
+        </attr><attr format="boolean" name="wlv_round_rectangle"/><attr format="integer" name="wlv_round_rectangle_x_and_y"/><attr format="color" name="wlv_waveColor"/><attr format="color" name="wlv_wave_background_Color"/><attr format="float" name="wlv_waveAmplitude"/><attr format="string" name="wlv_titleTop"/><attr format="string" name="wlv_titleCenter"/><attr format="string" name="wlv_titleBottom"/><attr format="dimension" name="wlv_titleTopSize"/><attr format="dimension" name="wlv_titleCenterSize"/><attr format="dimension" name="wlv_titleBottomSize"/><attr format="color" name="wlv_titleTopColor"/><attr format="color" name="wlv_titleCenterColor"/><attr format="color" name="wlv_titleBottomColor"/><attr format="color" name="wlv_titleTopStrokeColor"/><attr format="dimension" name="wlv_titleTopStrokeWidth"/><attr format="color" name="wlv_titleBottomStrokeColor"/><attr format="dimension" name="wlv_titleBottomStrokeWidth"/><attr format="color" name="wlv_titleCenterStrokeColor"/><attr format="dimension" name="wlv_titleCenterStrokeWidth"/></declare-styleable>
     <dimen name="_100sdp">100.00dp</dimen>
     <dimen name="_101sdp">101.00dp</dimen>
     <dimen name="_102sdp">102.00dp</dimen>
@@ -342,8 +353,6 @@
     <dimen name="_98sdp">98.00dp</dimen>
     <dimen name="_99sdp">99.00dp</dimen>
     <dimen name="_9sdp">9.00dp</dimen>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/negative_sdps.xml -->
-    <eat-comment/>
     <dimen name="_minus100sdp">-100.00dp</dimen>
     <dimen name="_minus101sdp">-101.00dp</dimen>
     <dimen name="_minus102sdp">-102.00dp</dimen>
@@ -644,11 +653,7 @@
     <dimen name="_minus98sdp">-98.00dp</dimen>
     <dimen name="_minus99sdp">-99.00dp</dimen>
     <dimen name="_minus9sdp">-9.00dp</dimen>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/values.xml -->
-    <eat-comment/>
     <dimen name="cpv_default_thickness">4dp</dimen>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <dimen name="default_boom_button_corner_radius">28dp</dimen>
     <dimen name="default_circle_button_corner_2radius">80dp</dimen>
     <dimen name="default_circle_button_corner_radius">40dp</dimen>
@@ -656,8 +661,6 @@
     <dimen name="default_corner_radius">4dp</dimen>
     <dimen name="default_ham_button_corner_radius">3dp</dimen>
     <dimen name="default_shadow_radius">4dp</dimen>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/ids.xml -->
-    <eat-comment/>
     <item name="mdActiveViewPosition" type="id"/>
     <item name="mdContent" type="id"/>
     <item name="mdMenu" type="id"/>
@@ -666,8 +669,6 @@
     <item name="md__menu" type="id"/>
     <item name="md__translationX" type="id"/>
     <item name="md__translationY" type="id"/>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/values.xml -->
-    <eat-comment/>
     <integer name="cpv_default_anim_duration">4000</integer>
     <integer name="cpv_default_anim_steps">3</integer>
     <integer name="cpv_default_anim_swoop_duration">5000</integer>
@@ -675,21 +676,13 @@
     <integer name="cpv_default_max_progress">100</integer>
     <integer name="cpv_default_progress">0</integer>
     <integer name="cpv_default_start_angle">-90</integer>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="app_name">DevTools</string>
     <string name="demo_max_label">Max</string>
     <string name="demo_min_label">Min</string>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/meta.xml -->
-    <eat-comment/>
     <string name="dimension">values</string>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="hello_world">Hello world!</string>
     <string name="md__drawerClosedIndicatorDesc">Open drawer</string>
     <string name="md__drawerOpenIndicatorDesc">Close drawer</string>
-    <!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/styles.xml -->
-    <eat-comment/>
     <style name="Widget"/>
     <style name="Widget.MenuDrawer">
         <item name="mdMenuBackground">@color/md__defaultBackground</item>

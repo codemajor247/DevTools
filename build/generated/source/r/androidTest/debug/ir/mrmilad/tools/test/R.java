@@ -1708,23 +1708,22 @@ containing a value of this type.
     }
     public static final class id {
         public static final int LinearMessageBox=0x7f08001e;
-        public static final int background=0x7f080029;
+        public static final int background=0x7f080028;
         public static final int bottom=0x7f080008;
         public static final int circle=0x7f080010;
-        public static final int container=0x7f08002a;
-        public static final int dots=0x7f080027;
+        public static final int container=0x7f080029;
+        public static final int dots=0x7f080026;
         public static final int east=0x7f080014;
         public static final int end=0x7f080009;
         public static final int frame_layout=0x7f080019;
-        public static final int icon=0x7f080028;
-        public static final int image=0x7f080026;
+        public static final int icon=0x7f080027;
+        public static final int image=0x7f080025;
         public static final int imageIcon=0x7f08001f;
-        public static final int imageView4=0x7f080024;
         public static final int image_button=0x7f08001b;
         public static final int image_view=0x7f08001c;
         public static final int left=0x7f08000a;
         public static final int line=0x7f08000e;
-        public static final int linear_layout=0x7f080025;
+        public static final int linear_layout=0x7f080024;
         public static final int mdActiveViewPosition=0x7f080000;
         public static final int mdContent=0x7f080001;
         public static final int mdMenu=0x7f080002;
@@ -1735,8 +1734,8 @@ containing a value of this type.
         public static final int md__translationY=0x7f080007;
         public static final int north=0x7f080015;
         public static final int point=0x7f08000f;
-        public static final int pretty_details_label=0x7f08002c;
-        public static final int prettylabel=0x7f08002b;
+        public static final int pretty_details_label=0x7f08002b;
+        public static final int prettylabel=0x7f08002a;
         public static final int rectangle=0x7f080011;
         public static final int right=0x7f08000b;
         public static final int ripple=0x7f08001a;
@@ -1745,8 +1744,8 @@ containing a value of this type.
         public static final int square=0x7f080012;
         public static final int start=0x7f08000c;
         public static final int text=0x7f08001d;
-        public static final int toast_icon=0x7f080022;
-        public static final int toast_text=0x7f080023;
+        public static final int toast_icon=0x7f080023;
+        public static final int toast_text=0x7f080022;
         public static final int toast_type=0x7f080021;
         public static final int top=0x7f08000d;
         public static final int triangle=0x7f080013;

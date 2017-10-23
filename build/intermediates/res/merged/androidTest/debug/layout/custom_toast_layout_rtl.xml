@@ -27,4 +27,4 @@
             android:contentDescription="@string/app_name" />
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/layout/custom_toast_layout_rtl.xml --><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/build/intermediates/bundles/debug/res/layout/custom_toast_layout_rtl.xml -->
+</LinearLayout>

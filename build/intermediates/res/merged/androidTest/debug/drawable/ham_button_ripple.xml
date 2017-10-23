@@ -10,4 +10,4 @@
             <corners android:radius="@dimen/default_ham_button_corner_radius" />
         </shape>
     </item>
-</ripple><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/ham_button_ripple.xml --><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/build/intermediates/bundles/debug/res/drawable/ham_button_ripple.xml -->
+</ripple>

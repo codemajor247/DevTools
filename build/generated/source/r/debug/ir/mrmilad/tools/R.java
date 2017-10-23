@@ -1708,23 +1708,22 @@ containing a value of this type.
     }
     public static final class id {
         public static int LinearMessageBox=0x7f08001e;
-        public static int background=0x7f080029;
+        public static int background=0x7f080028;
         public static int bottom=0x7f080008;
         public static int circle=0x7f080010;
-        public static int container=0x7f08002a;
-        public static int dots=0x7f080027;
+        public static int container=0x7f080029;
+        public static int dots=0x7f080026;
         public static int east=0x7f080014;
         public static int end=0x7f080009;
         public static int frame_layout=0x7f080019;
-        public static int icon=0x7f080028;
-        public static int image=0x7f080026;
+        public static int icon=0x7f080027;
+        public static int image=0x7f080025;
         public static int imageIcon=0x7f08001f;
-        public static int imageView4=0x7f080024;
         public static int image_button=0x7f08001b;
         public static int image_view=0x7f08001c;
         public static int left=0x7f08000a;
         public static int line=0x7f08000e;
-        public static int linear_layout=0x7f080025;
+        public static int linear_layout=0x7f080024;
         public static int mdActiveViewPosition=0x7f080000;
         public static int mdContent=0x7f080001;
         public static int mdMenu=0x7f080002;
@@ -1735,8 +1734,8 @@ containing a value of this type.
         public static int md__translationY=0x7f080007;
         public static int north=0x7f080015;
         public static int point=0x7f08000f;
-        public static int pretty_details_label=0x7f08002c;
-        public static int prettylabel=0x7f08002b;
+        public static int pretty_details_label=0x7f08002b;
+        public static int prettylabel=0x7f08002a;
         public static int rectangle=0x7f080011;
         public static int right=0x7f08000b;
         public static int ripple=0x7f08001a;
@@ -1745,8 +1744,8 @@ containing a value of this type.
         public static int square=0x7f080012;
         public static int start=0x7f08000c;
         public static int text=0x7f08001d;
-        public static int toast_icon=0x7f080022;
-        public static int toast_text=0x7f080023;
+        public static int toast_icon=0x7f080023;
+        public static int toast_text=0x7f080022;
         public static int toast_type=0x7f080021;
         public static int top=0x7f08000d;
         public static int triangle=0x7f080013;

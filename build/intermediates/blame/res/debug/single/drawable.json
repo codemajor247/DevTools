@@ -1,42 +1,70 @@
 [
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/ham_button_ripple.xml",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/ham_button_ripple.xml"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/sync_on.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/sync_on.png"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/boom_button_ripple.xml",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/boom_button_ripple.xml"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/background_tab.xml"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/dot.xml",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/dot.xml"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/circle_button.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/circle_button.xml"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/sync_on.png",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/sync_on.png"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/boom_button_ripple.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/boom_button_ripple.xml"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/background_tab.xml",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/background_tab.xml"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/boom_menu_button.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/boom_menu_button.xml"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/circle_button.xml",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/circle_button.xml"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/info_shape.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/info_shape.xml"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/boom_menu_button.xml",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/boom_menu_button.xml"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/success_shape.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/success_shape.xml"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/sync_off.png",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/sync_off.png"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/ham_button_ripple.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/ham_button_ripple.xml"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/circle_button_ripple.xml",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/circle_button_ripple.xml"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/confusing_shape.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/confusing_shape.xml"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable/bar.xml",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable/bar.xml"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/androidicon.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/androidicon.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/bar.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/bar.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/warning_shape.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/warning_shape.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/sync_off.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/sync_off.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/dot.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/dot.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/circle_button_ripple.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/circle_button_ripple.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/error_shape.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/error_shape.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable/default_shape.xml",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/default_shape.xml"
     }
 ]

@@ -10,4 +10,4 @@
             <solid android:color="@color/default_boom_button_color"/>
         </shape>
     </item>
-</selector><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable/boom_menu_button.xml --><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/build/intermediates/bundles/debug/res/drawable/boom_menu_button.xml -->
+</selector>

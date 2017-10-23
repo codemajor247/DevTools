@@ -1,10 +1,30 @@
 [
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pretty_progress.png",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable-xhdpi/pretty_progress.png"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pretty_progress.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xhdpi/pretty_progress.png"
     },
     {
-        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
-        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_check_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-xhdpi/ic_check_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_refresh_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-xhdpi/ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pan_tool_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-xhdpi/ic_pan_tool_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_info_outline_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-xhdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_clear_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-xhdpi/ic_clear_black_24dp.png"
     }
 ]

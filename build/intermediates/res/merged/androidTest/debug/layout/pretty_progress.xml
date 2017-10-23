@@ -31,4 +31,4 @@
         android:layout_height="wrap_content"
         android:textColor="@android:color/white"
         android:textSize="13sp"/>
-</ir.mrmilad.hdprogress.BackgroundLayout><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/src/main/res/layout/pretty_progress.xml --><!-- From: file:/Users/miladseifoori/Android/Library/DevTools/build/intermediates/bundles/debug/res/layout/pretty_progress.xml -->
+</ir.mrmilad.hdprogress.BackgroundLayout>
