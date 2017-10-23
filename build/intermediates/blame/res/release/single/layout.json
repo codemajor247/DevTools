@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/custom_toast_layout_ltr.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/custom_toast_layout_ltr.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/boom_menu_button_in_action_bar.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/boom_menu_button_in_action_bar.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/ham_button.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/ham_button.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/boom_menu_button.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/boom_menu_button.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/likeview.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/likeview.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/circle_button_below_lollipop.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/circle_button_below_lollipop.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/boom_menu_button_below_lollipop.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/boom_menu_button_below_lollipop.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/circle_button.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/circle_button.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/custom_toast_layout_rtl.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/custom_toast_layout_rtl.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/pretty_progress.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/pretty_progress.xml"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/layout/ham_button_below_lollipop.xml",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/layout/ham_button_below_lollipop.xml"
+    }
+]

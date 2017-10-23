@@ -1,0 +1,252 @@
+<resources>
+
+    <declare-styleable name="CircularProgressView">
+        <attr name="cpv_progress" format="float" />
+        <attr name="cpv_maxProgress" format="float" />
+        <attr name="cpv_animDuration" format="integer" />
+        <attr name="cpv_animSwoopDuration" format="integer" />
+        <attr name="cpv_animSyncDuration" format="integer" />
+        <attr name="cpv_color" format="color" />
+        <attr name="cpv_thickness" format="dimension" />
+        <attr name="cpv_indeterminate" format="boolean" />
+        <attr name="cpv_animAutostart" format="boolean" />
+        <attr name="cpv_animSteps" format="integer" />
+        <attr name="cpv_startAngle" format="float" />
+    </declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="pstsIndicatorColor" format="color" />
+        <attr name="pstsUnderlineColor" format="color" />
+        <attr name="pstsDividerColor" format="color" />
+        <attr name="pstsIndicatorHeight" format="dimension" />
+        <attr name="pstsUnderlineHeight" format="dimension" />
+        <attr name="pstsDividerPadding" format="dimension" />
+        <attr name="pstsTabPaddingLeftRight" format="dimension" />
+        <attr name="pstsScrollOffset" format="dimension" />
+        <attr name="pstsTabBackground" format="reference" />
+        <attr name="pstsShouldExpand" format="boolean" />
+        <attr name="pstsTextAllCaps" format="boolean" />
+    </declare-styleable>
+
+    <!-- Reference to a style for the menu drawer. -->
+    <attr name="menuDrawerStyle" format="reference" />
+
+    <!-- Styleables used for styling the menu drawer. -->
+    <declare-styleable name="MenuDrawer">
+
+        <!-- Drawable to use for the background of the content. -->
+        <attr name="mdContentBackground" format="reference" />
+
+        <!-- Drawable to use for the background of the menu. -->
+        <attr name="mdMenuBackground" format="reference" />
+
+        <!-- The size of the menu. -->
+        <attr name="mdMenuSize" format="dimension" />
+
+        <!-- Drawable used as indicator for the active view. -->
+        <attr name="mdActiveIndicator" format="reference" />
+
+        <!-- Defines whether the content will have a dropshadow onto the menu. Default is true. -->
+        <attr name="mdDropShadowEnabled" format="boolean" />
+
+        <!-- The size of the drop shadow. Default is 6dp -->
+        <attr name="mdDropShadowSize" format="dimension" />
+
+        <!-- The color of the drop shadow. Default is #FF000000. -->
+        <attr name="mdDropShadowColor" format="color" />
+
+        <!-- Drawable used for the drop shadow. -->
+        <attr name="mdDropShadow" format="reference" />
+
+        <!-- The touch bezel size. -->
+        <attr name="mdTouchBezelSize" format="dimension" />
+
+        <!-- Whether the indicator should be animated between active views. -->
+        <attr name="mdAllowIndicatorAnimation" format="boolean" />
+
+        <!-- The maximum animation duration -->
+        <attr name="mdMaxAnimationDuration" format="integer" />
+
+        <!-- Drawable that replaces the up indicator -->
+        <attr name="mdSlideDrawable" format="reference" />
+
+        <!-- String to use as the up indicators content description when the drawer is open -->
+        <attr name="mdDrawerOpenUpContentDescription" format="string" />
+
+        <!-- String to use as the up indicators content description when the drawer is closed -->
+        <attr name="mdDrawerClosedUpContentDescription" format="string" />
+
+        <!-- Whether an overlay should be drawn as the drawer is opened and closed -->
+        <attr name="mdDrawOverlay" format="boolean" />
+
+        <!-- The position of the drawer -->
+        <attr name="mdPosition" format="enum">
+            <enum name="left" value="0" />
+            <enum name="top" value="1" />
+            <enum name="right" value="2" />
+            <enum name="bottom" value="3" />
+            <enum name="start" value="4" />
+            <enum name="end" value="5" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="ShadowLayout">
+        <attr name="sl_cornerRadius" format="dimension" />
+        <attr name="sl_shadowRadius" format="dimension" />
+        <attr name="sl_shadowColor" format="color" />
+        <attr name="sl_dx" format="dimension" />
+        <attr name="sl_dy" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="CircularImageView">
+
+        <!-- Specifies whether or not to draw a circular border around the image. -->
+        <attr name="border" format="boolean"></attr>
+        <!-- Specifies the color of the border draw around the image. (if enabled) -->
+        <attr name="border_color" format="color"></attr>
+        <!-- Makes the border this pixels wide. (if enabled) -->
+        <attr name="border_width" format="dimension"></attr>
+        <!-- Specifies whether or not to draw a selector on this view upon touch events. -->
+        <attr name="selector" format="boolean"></attr>
+        <!-- Specifies the color of the selector draw on top of the image upon touch events. (if enabled) -->
+        <attr name="selector_color" format="color"></attr>
+        <!-- Specifies the color of the selector stroke drawn around the image upon touch events. Be sure to provide some opacity. (if enabled) -->
+        <attr name="selector_stroke_color" format="color"></attr>
+        <!-- Makes the selector stroke drawn around the image upon touch events this pixels wide. (if enabled) -->
+        <attr name="selector_stroke_width" format="dimension"></attr>
+        <!-- Specifies whether or not to draw a shadow around your circular image. -->
+        <attr name="shadow" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="CustomCircularImageViewTheme">
+        <attr name="circularImageViewStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="WaveLoadingView">
+        <attr name="wlv_borderWidth" format="dimension" />
+        <attr name="wlv_borderColor" format="color" />
+        <attr name="wlv_progressValue" format="integer" />
+        <attr name="wlv_shapeType" format="enum">
+            <enum name="triangle" value="0" />
+            <enum name="circle" value="1" />
+            <enum name="square" value="2" />
+            <enum name="rectangle" value="3" />
+        </attr>
+        <attr name="wlv_triangle_direction" format="enum">
+            <enum name="north" value="0" />
+            <enum name="south" value="1" />
+            <enum name="east" value="2" />
+            <enum name="west" value="3" />
+        </attr>
+        <attr name="wlv_round_rectangle" format="boolean" />
+        <attr name="wlv_round_rectangle_x_and_y" format="integer" />
+        <attr name="wlv_waveColor" format="color" />
+        <attr name="wlv_wave_background_Color" format="color" />
+        <attr name="wlv_waveAmplitude" format="float" />
+        <attr name="wlv_titleTop" format="string" />
+        <attr name="wlv_titleCenter" format="string" />
+        <attr name="wlv_titleBottom" format="string" />
+        <attr name="wlv_titleTopSize" format="dimension" />
+        <attr name="wlv_titleCenterSize" format="dimension" />
+        <attr name="wlv_titleBottomSize" format="dimension" />
+        <attr name="wlv_titleTopColor" format="color" />
+        <attr name="wlv_titleCenterColor" format="color" />
+        <attr name="wlv_titleBottomColor" format="color" />
+        <attr name="wlv_titleTopStrokeColor" format="color" />
+        <attr name="wlv_titleTopStrokeWidth" format="dimension" />
+        <attr name="wlv_titleBottomStrokeColor" format="color" />
+        <attr name="wlv_titleBottomStrokeWidth" format="dimension" />
+        <attr name="wlv_titleCenterStrokeColor" format="color" />
+        <attr name="wlv_titleCenterStrokeWidth" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="RangeSeekBar">
+        <!-- the minimum of the range -->
+        <attr name="absoluteMinValue" format="integer|float" />
+
+        <!-- the maximum of the range -->
+        <attr name="absoluteMaxValue" format="integer|float" />
+
+        <!-- the step value -->
+        <attr name="step" format="integer|float" />
+
+        <!-- show a single slider -->
+        <attr name="singleThumb" format="boolean" />
+
+        <!-- show the labels on the right and left-->
+        <attr name="showLabels" format="boolean" />
+
+        <!-- alwaysActive will make the buttons and bar always draw as the activeColor (the default is false) -->
+        <attr name="alwaysActive" format="boolean" />
+
+        <!-- show the currently selected value above each thumb (defaults to true) -->
+        <attr name="valuesAboveThumbs" format="boolean" />
+
+        <!-- padding on either side on the slider -->
+        <attr name="internalPadding" format="dimension" />
+
+        <!-- the height of the bar -->
+        <attr name="barHeight" format="dimension" />
+
+        <!-- the color of the bar that is not selected -->
+        <attr name="defaultColor" format="color" />
+
+        <!-- the color of the bar that is selected -->
+        <attr name="activeColor" format="color" />
+
+        <!-- the color of the text above thumbs -->
+        <attr name="textAboveThumbsColor" format="color" />
+
+        <!-- set drawables for thumb handles -->
+        <attr name="thumbNormal" format="reference" />
+        <attr name="thumbPressed" format="reference" />
+        <attr name="thumbDisabled" format="reference" />
+
+        <!-- thumb shadow specifications -->
+        <attr name="thumbShadow" format="boolean" />
+        <attr name="thumbShadowColor" format="color" />
+        <attr name="thumbShadowXOffset" format="dimension" />
+        <attr name="thumbShadowYOffset" format="dimension" />
+        <attr name="thumbShadowBlur" format="dimension" />
+
+        <!-- to activate the thumbs and texts when the min and max values are the default ones (defaults to false) -->
+        <attr name="activateOnDefaultValues" format="boolean" />
+
+
+    </declare-styleable>
+
+    <declare-styleable name="LikeButton">
+        <attr name="icon_type" format="string" />
+        <attr name="icon_size" format="dimension|reference"/>
+        <attr name="like_drawable" format="reference" />
+        <attr name="unlike_drawable" format="reference" />
+        <attr name="dots_primary_color" format="color|reference" />
+        <attr name="dots_secondary_color" format="color|reference" />
+        <attr name="circle_start_color" format="color|reference" />
+        <attr name="circle_end_color" format="color|reference" />
+        <attr name="liked" format="boolean"/>
+        <attr name="is_enabled" format="boolean"/>
+        <attr name="anim_scale_factor" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="NavigationTabStrip">
+        <attr name="nts_color" format="color"/>
+        <attr name="nts_size" format="dimension"/>
+        <attr name="nts_weight" format="dimension"/>
+        <attr name="nts_factor" format="float"/>
+        <attr name="nts_titles" format="reference"/>
+
+        <attr name="nts_type" format="enum">
+            <enum name="line" value="0"/>
+            <enum name="point" value="1"/>
+        </attr>
+        <attr name="nts_gravity" format="enum">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+
+        <attr name="nts_typeface" format="string"/>
+        <attr name="nts_corners_radius" format="dimension"/>
+        <attr name="nts_animation_duration" format="integer"/>
+
+        <attr name="nts_inactive_color" format="color"/>
+        <attr name="nts_active_color" format="color"/>
+    </declare-styleable>
+
+</resources>

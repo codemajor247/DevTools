@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/build/intermediates/res/merged/release/drawable-hdpi-v4/pretty_progress.png",
+        "source": "/Users/miladseifoori/Android/AndroidSudioProjects/InstaFarsi_New/DevTools/src/main/res/drawable-hdpi/pretty_progress.png"
+    }
+]
