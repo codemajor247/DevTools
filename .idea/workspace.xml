@@ -10,147 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb508e5b-92a1-4c1c-8ca5-9ab4c0f17364" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations_25_0_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_25_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_25_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_25_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_25_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_25_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_25_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_25_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileContent/fileContent.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/bundles/default/classes.jar" afterPath="$PROJECT_DIR$/build/intermediates/bundles/default/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/ir/mrmilad/tools/BuildConfig.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/release/ir/mrmilad/tools/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/aar/DevTools-release.aar" afterPath="$PROJECT_DIR$/build/outputs/aar/DevTools-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_0_0.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DevTools.iml" afterPath="$PROJECT_DIR$/DevTools.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/index.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/AnimateButton.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/AnimateButton.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/CircleView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/CircleView.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/DotsView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/DotsView.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/Icon.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/Icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/IconType.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/IconType.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/OnLikeListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/OnLikeListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/Utils.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/Utils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/CircularImageView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/CircularImageView.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/BackgroundLayout.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/BackgroundLayout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/Determinate.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/Determinate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/Indeterminate.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/Indeterminate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/PrettyProgress.Style.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/PrettyProgress.Style.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/PrettyProgress.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/PrettyProgress.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/Payment.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/Payment.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/JustifiedEditText.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/JustifiedEditText.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/JustifiedTextView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/JustifiedTextView.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.ShapeType.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.ShapeType.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.TriangleDirection.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.TriangleDirection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressView.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressViewAdapter.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressViewAdapter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressViewListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressViewListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.NumberType.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.NumberType.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.OnRangeSeekBarChangeListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.OnRangeSeekBarChangeListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/ActionBarHelper.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/ActionBarHelper.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/DraggableDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/DraggableDrawer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.OnDrawerStateChangeListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.OnDrawerStateChangeListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.OnInterceptMoveEventListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.OnInterceptMoveEventListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.Type.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.Type.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/OverlayDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/OverlayDrawer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/Position.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/Position.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/SlideDrawable.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/SlideDrawable.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/SlidingDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/SlidingDrawer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/StaticDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/StaticDrawer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/BitmapUtil.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/BitmapUtil.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/Blur.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/Blur.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/PixelUtil.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/PixelUtil.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/BlurBehind.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/BlurBehind.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.SessionIdentifierGenerator.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.SessionIdentifierGenerator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.TypefaceSpan.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.TypefaceSpan.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/FancyToast.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/FancyToast.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/JsonClass.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/JsonClass.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/OnBlurCompleteListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/OnBlurCompleteListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/WebClient.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/WebClient.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/MaterialTabStrip.OnTabStripSelectedIndexListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/MaterialTabStrip.OnTabStripSelectedIndexListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/MaterialTabStrip.StripGravity.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/MaterialTabStrip.StripGravity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/MaterialTabStrip.StripType.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/MaterialTabStrip.StripType.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/MaterialTabStrip.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/MaterialTabStrip.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/PagerSlidingTabStrip.IconTabProvider.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/PagerSlidingTabStrip.IconTabProvider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/PagerSlidingTabStrip.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/PagerSlidingTabStrip.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/viewpager/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/release/ir/mrmilad/tools/BuildConfig.java" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/release/ir/mrmilad/tools/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/bundles/default/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/bundles/default/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/aapt/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/poms/pom-default.xml" afterPath="$PROJECT_DIR$/build/poms/pom-default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/tmp/javadoc/javadoc.options" afterPath="$PROJECT_DIR$/build/tmp/javadoc/javadoc.options" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ir/mrmilad/utility/DevTools.java" afterPath="$PROJECT_DIR$/src/main/java/ir/mrmilad/utility/DevTools.java" />
     </list>
     <ignored path="DevTools.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -275,8 +144,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="123">
+              <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -1337,78 +1206,6 @@
               <option name="myItemId" value="DevTools" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevTools" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevTools" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevTools" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevTools" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mrmilad" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevTools" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevTools" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mrmilad" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utility" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevTools" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevTools" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -1513,7 +1310,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518010475907" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518011304304" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -1561,7 +1358,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518010475907" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518011304304" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1744,7 +1541,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518010475909" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518011304305" />
       </method>
     </configuration>
     <list size="1">
@@ -1797,7 +1594,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.507874" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.507874" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24944812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2088,8 +1885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="123">
+          <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
           <folding />
         </state>
       </provider>
