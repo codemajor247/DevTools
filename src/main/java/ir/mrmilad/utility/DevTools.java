@@ -16,6 +16,7 @@ import android.graphics.Typeface;
 import android.net.ConnectivityManager;
 import android.net.Uri;
 import android.os.Build;
+import android.preference.PreferenceManager;
 import android.provider.Settings.Secure;
 import android.support.v4.content.FileProvider;
 import android.telephony.TelephonyManager;
@@ -52,6 +53,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 import java.util.Random;
+import java.util.TimeZone;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 import java.util.zip.ZipOutputStream;
@@ -65,6 +67,7 @@ import ir.mrmilad.tools.R;
 @SuppressWarnings("deprecation")
 public class DevTools {
 
+    public static final String PREF_IRAN_TIME = "IranTime";
     private final static Random random = new Random();
     private static final int BUFFER_SIZE = 4096;
     private static char[] buf;
@@ -85,6 +88,8 @@ public class DevTools {
     public static int Position_Top = 1;
     public static int Position_Bottom = 3;
     public static int Position_CenterVertical = 2;
+    private SharedPreferences prefs;
+    private boolean iranTime;
 
     static {
         for (int idx = 0; idx < 10; ++idx)
@@ -864,11 +869,12 @@ public class DevTools {
 
     /**
      * Install apk from file
+     *
      * @param _context
      * @param packageName
      * @param file
      */
-    public static void installApkFromFile(Context _context, String packageName, File file) {
+    public static void installApkFromFile(Context context, File file) {
         MimeTypeMap mime = MimeTypeMap.getSingleton();
         String ext = file.getName().substring(file.getName().lastIndexOf(".") + 1);
         String type = mime.getMimeTypeFromExtension(ext);
@@ -877,13 +883,38 @@ public class DevTools {
         intent.setAction(Intent.ACTION_VIEW);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
             intent.setFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
-            Uri contentUri = FileProvider.getUriForFile(_context, packageName + ".provider", file);
+            Uri contentUri = FileProvider.getUriForFile(context, context.getPackageName() + ".provider", file);
             intent.setDataAndType(contentUri, type);
         } else {
             intent.setDataAndType(Uri.fromFile(file), type);
         }
         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        _context.startActivity(intent);
+        context.startActivity(intent);
 
+    }
+
+    /**
+     * Download Apk from url and install
+     *
+     * @param context
+     * @param url
+     */
+    public static void DownloadAndInstallApk(Context context, String url, String filename) {
+
+    }
+
+    public Calendar makeCalendarFromDate(Date date, Context context) {
+        prefs = PreferenceManager.getDefaultSharedPreferences(context);
+        iranTime = prefs.getBoolean(PREF_IRAN_TIME, false);
+        Calendar calendar = Calendar.getInstance();
+        if (iranTime) {
+            calendar.setTimeZone(TimeZone.getTimeZone("Asia/Tehran"));
+        }
+        calendar.setTime(date);
+        return calendar;
+    }
+
+    public PersianDate getToday(Context context) {
+        return DateConverter.civilToPersian(new CivilDate(makeCalendarFromDate(new Date(), context)));
     }
 }

@@ -2,10 +2,10 @@
 -charSet 'UTF-8'
 -classpath '/Users/miladseifoori/Android/SDK/platforms/android-25/android.jar:/Users/miladseifoori/Android/SDK/platforms/android-25/optional/org.apache.http.legacy.jar'
 -d '/Users/miladseifoori/Android/Library/DevTools/build/docs/javadoc'
--doctitle 'DevTools 1.3 API'
+-doctitle 'DevTools 1.4 API'
 -encoding 'UTF-8'
 -quiet 
--windowtitle 'DevTools 1.3 API'
+-windowtitle 'DevTools 1.4 API'
 '/Users/miladseifoori/Android/Library/DevTools/src/main/java/ir/mrmilad/hdprogress/SpinView.java'
 '/Users/miladseifoori/Android/Library/DevTools/src/main/java/ir/mrmilad/hdprogress/BarView.java'
 '/Users/miladseifoori/Android/Library/DevTools/src/main/java/ir/mrmilad/hdprogress/Indeterminate.java'
