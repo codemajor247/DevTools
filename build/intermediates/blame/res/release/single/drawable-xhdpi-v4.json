@@ -4,12 +4,12 @@
         "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_refresh_black_24dp.png",
-        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/release/drawable-xhdpi/ic_refresh_black_24dp.png"
-    },
-    {
         "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_clear_black_24dp.png",
         "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/release/drawable-xhdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_refresh_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/release/drawable-xhdpi/ic_refresh_black_24dp.png"
     },
     {
         "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xhdpi-v4/pretty_progress.png",

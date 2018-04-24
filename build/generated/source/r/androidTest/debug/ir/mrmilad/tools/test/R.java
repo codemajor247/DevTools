@@ -1781,8 +1781,10 @@ containing a value of this type.
         public static final int demo_min_label=0x7f050003;
         public static final int dimension=0x7f050000;
         public static final int hello_world=0x7f050004;
-        public static final int md__drawerClosedIndicatorDesc=0x7f050005;
-        public static final int md__drawerOpenIndicatorDesc=0x7f050006;
+        public static final int ic_3d_rotation=0x7f050005;
+        public static final int ic_accessibility=0x7f050006;
+        public static final int md__drawerClosedIndicatorDesc=0x7f050007;
+        public static final int md__drawerOpenIndicatorDesc=0x7f050008;
     }
     public static final class style {
         public static final int Widget=0x7f0a0000;

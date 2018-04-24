@@ -681,6 +681,8 @@
     <string name="demo_min_label">Min</string>
     <string name="dimension">values</string>
     <string name="hello_world">Hello world!</string>
+    <string name="ic_3d_rotation"></string>
+    <string name="ic_accessibility"></string>
     <string name="md__drawerClosedIndicatorDesc">Open drawer</string>
     <string name="md__drawerOpenIndicatorDesc">Close drawer</string>
     <style name="Widget"/>

@@ -5,8 +5,12 @@
     <string name="hello_world">Hello world!</string>
     <string name="md__drawerOpenIndicatorDesc">Close drawer</string>
     <string name="md__drawerClosedIndicatorDesc">Open drawer</string>
-
     <string name="demo_min_label">Min</string>
     <string name="demo_max_label">Max</string>
+
+    <string name="ic_3d_rotation">&#xE84D;</string>
+    <string name="ic_accessibility">&#xE84E;</string>
+
+    <string name=""></string>
 
 </resources>

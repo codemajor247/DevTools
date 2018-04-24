@@ -12249,11 +12249,11 @@
                 "from": {
                     "file": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 342,
+                        "startOffset": 341,
                         "endColumn": 46,
-                        "endOffset": 384
+                        "endOffset": 383
                     }
                 }
             },
@@ -12268,11 +12268,11 @@
                 "from": {
                     "file": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 294,
                         "endColumn": 46,
-                        "endOffset": 337
+                        "endOffset": 336
                     }
                 }
             },
@@ -12319,8 +12319,46 @@
                     "startLine": 683,
                     "startColumn": 4,
                     "startOffset": 37148,
+                    "endColumn": 44,
+                    "endOffset": 37188
+                },
+                "from": {
+                    "file": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 51,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 684,
+                    "startColumn": 4,
+                    "startOffset": 37193,
+                    "endColumn": 46,
+                    "endOffset": 37235
+                },
+                "from": {
+                    "file": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 53,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 685,
+                    "startColumn": 4,
+                    "startOffset": 37240,
                     "endColumn": 69,
-                    "endOffset": 37213
+                    "endOffset": 37305
                 },
                 "from": {
                     "file": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/strings.xml",
@@ -12335,11 +12373,11 @@
             },
             {
                 "to": {
-                    "startLine": 684,
+                    "startLine": 686,
                     "startColumn": 4,
-                    "startOffset": 37218,
+                    "startOffset": 37310,
                     "endColumn": 68,
-                    "endOffset": 37282
+                    "endOffset": 37374
                 },
                 "from": {
                     "file": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/strings.xml",
@@ -12354,11 +12392,11 @@
             },
             {
                 "to": {
-                    "startLine": 685,
+                    "startLine": 687,
                     "startColumn": 4,
-                    "startOffset": 37287,
+                    "startOffset": 37379,
                     "endColumn": 26,
-                    "endOffset": 37309
+                    "endOffset": 37401
                 },
                 "from": {
                     "file": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/styles.xml",
@@ -12373,12 +12411,12 @@
             },
             {
                 "to": {
-                    "startLine": 686,
+                    "startLine": 688,
                     "startColumn": 4,
-                    "startOffset": 37314,
-                    "endLine": 691,
+                    "startOffset": 37406,
+                    "endLine": 693,
                     "endColumn": 12,
-                    "endOffset": 37710
+                    "endOffset": 37802
                 },
                 "from": {
                     "file": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/values/styles.xml",
