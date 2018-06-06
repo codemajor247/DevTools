@@ -10,16 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb508e5b-92a1-4c1c-8ca5-9ab4c0f17364" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/jarAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
@@ -31,15 +26,130 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/DevTools.iml" afterPath="$PROJECT_DIR$/DevTools.iml" />
       <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/index.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/index.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/AnimateButton.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/AnimateButton.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/CircleView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/CircleView.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/DotsView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/DotsView.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/Icon.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/Icon.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/IconType.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/IconType.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/OnLikeListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/OnLikeListener.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/Utils.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/Utils.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/button/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/CircularImageView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/CircularImageView.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/circularimageview/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/BackgroundLayout.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/BackgroundLayout.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/Determinate.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/Determinate.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/Indeterminate.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/Indeterminate.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/PrettyProgress.Style.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/PrettyProgress.Style.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/PrettyProgress.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/PrettyProgress.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/hdprogress/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/Payment.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/Payment.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/inapp/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/JustifiedEditText.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/JustifiedEditText.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/JustifiedTextView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/JustifiedTextView.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/justified/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.ShapeType.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.ShapeType.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.TriangleDirection.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.TriangleDirection.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/WaveLoadingView.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/loading/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressView.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressViewAdapter.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressViewAdapter.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressViewListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/CircularProgressViewListener.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/progressview/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.NumberType.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.NumberType.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.OnRangeSeekBarChangeListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.OnRangeSeekBarChangeListener.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/RangeSeekBar.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/rangebar/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/ActionBarHelper.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/ActionBarHelper.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/DraggableDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/DraggableDrawer.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.OnDrawerStateChangeListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.OnDrawerStateChangeListener.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.OnInterceptMoveEventListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.OnInterceptMoveEventListener.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.Type.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.Type.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/MenuDrawer.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/OverlayDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/OverlayDrawer.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/Position.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/Position.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/SlideDrawable.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/SlideDrawable.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/SlidingDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/SlidingDrawer.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/StaticDrawer.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/StaticDrawer.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/sidemenu/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/textview/FontTextView.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/textview/FontTextView.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/textview/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/textview/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/textview/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/textview/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/textview/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/textview/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/BitmapUtil.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/BitmapUtil.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/Blur.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/Blur.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/PixelUtil.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/PixelUtil.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/util/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/AbstractDate.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/AbstractDate.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/BlurBehind.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/BlurBehind.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/CivilDate.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/CivilDate.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/Constants.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/Constants.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DateConverter.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DateConverter.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DayOutOfRangeException.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DayOutOfRangeException.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.SessionIdentifierGenerator.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.SessionIdentifierGenerator.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.TypefaceSpan.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.TypefaceSpan.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/DevTools.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/FancyToast.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/FancyToast.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/InstaDownloader.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/InstaDownloader.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/InstaDownloader.onCheck.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/InstaDownloader.onCheck.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/IslamicDate.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/IslamicDate.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/JsonClass.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/JsonClass.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/MonthOutOfRangeException.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/MonthOutOfRangeException.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/OnBlurCompleteListener.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/OnBlurCompleteListener.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/PersianDate.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/PersianDate.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/WebClient.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/WebClient.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/YearOutOfRangeException.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/YearOutOfRangeException.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/ir/mrmilad/utility/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-frame.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-frame.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-summary.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-summary.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/serialized-form.html" afterPath="$PROJECT_DIR$/build/docs/javadoc/serialized-form.html" />
       <change beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/ir/mrmilad/tools/BuildConfig.java" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/ir/mrmilad/tools/BuildConfig.java" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/release/ir/mrmilad/tools/BuildConfig.java" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/release/ir/mrmilad/tools/BuildConfig.java" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/bundles/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/bundles/default/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/bundles/default/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/bundles/default/classes.jar" afterPath="$PROJECT_DIR$/build/intermediates/bundles/default/classes.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/release/ir/mrmilad/tools/BuildConfig.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/release/ir/mrmilad/tools/BuildConfig.class" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mrmilad/utility/InstaDownloader.java" afterPath="$PROJECT_DIR$/src/main/java/ir/mrmilad/utility/InstaDownloader.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mrmilad/viewpager/MaterialTabStrip.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mrmilad/viewpager/PagerSlidingTabStrip.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/manifests/aapt/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/build/outputs/aar/DevTools-release.aar" afterPath="$PROJECT_DIR$/build/outputs/aar/DevTools-release.aar" />
+      <change beforePath="$PROJECT_DIR$/build/poms/pom-default.xml" afterPath="$PROJECT_DIR$/build/poms/pom-default.xml" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/javadoc/javadoc.options" afterPath="$PROJECT_DIR$/build/tmp/javadoc/javadoc.options" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mrmilad/util/BitmapUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mrmilad/util/Blur.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mrmilad/util/PixelUtil.java" afterPath="" />
     </list>
     <ignored path="DevTools.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,8 +183,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-201">
-              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="123">
+              <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -1283,6 +1393,17 @@
             </path>
             <path>
               <item name="DevTools" type="1abcf292:AndroidViewProjectNode" />
+              <item name="DevTools" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="DevTools" type="1abcf292:AndroidViewProjectNode" />
+              <item name="DevTools" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="mrmilad" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DevTools" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
@@ -1299,7 +1420,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/SDK" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/res/drawable" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1528299150579" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1528299347325" />
     <property name="ScreenshotViewer.SavePath" value="$USER_HOME$" />
   </component>
   <component name="RecentsManager">
@@ -2160,8 +2281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="123">
+          <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
           <folding />
         </state>
       </provider>
