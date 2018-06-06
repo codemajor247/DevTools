@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/share_on.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/share_on.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/pretty_progress.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/pretty_progress.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/dl_on.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/dl_on.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_pan_tool_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/release/drawable-xxhdpi/ic_pan_tool_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/dl_off.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/dl_off.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/share_off.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/share_off.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/seek_thumb_pressed.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/seek_thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/heart_on.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/heart_on.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_check_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/release/drawable-xxhdpi/ic_check_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/clipboard_off.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/clipboard_off.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/seek_thumb_normal.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/seek_thumb_normal.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/star_off.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/star_off.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/seek_thumb_disabled.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/seek_thumb_disabled.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_refresh_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/release/drawable-xxhdpi/ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/thumb_on.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/thumb_on.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_info_outline_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/release/drawable-xxhdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/star_on.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/star_on.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/clipboard_on.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/clipboard_on.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/heart_off.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/heart_off.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/thumb_off.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/src/main/res/drawable-xxhdpi/thumb_off.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_clear_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/release/drawable-xxhdpi/ic_clear_black_24dp.png"
+    }
+]

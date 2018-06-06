@@ -11,20 +11,15 @@ public class InstaDownloader {
 
     public static final int Video = 0;
     public static final int Photo = 1;
-    Context mContext;
 
     onCheck listener;
-
-    public void InstaDownloader(Context context){
-        this.mContext = context;
-    }
 
     public interface onCheck {
         void onComplete(int type, String url);
     }
 
-    public void setOnCheck(onCheck onCheck) {
-        this.listener = listener;
+    public void setOnCheck(onCheck status) {
+        this.listener = status;
     }
 
     public void checkUrl(String url) {
