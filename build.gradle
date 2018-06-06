@@ -31,7 +31,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 6
-        versionName "1.5.7"
+        versionName "1.5.8"
     }
 
     buildTypes {
@@ -55,7 +55,7 @@ ext {
     siteUrl = 'https://github.com/miladcoder/DevTools'
     gitUrl = 'https://github.com/miladcoder/DevTools.git'
 
-    libraryVersion = '1.5.7'
+    libraryVersion = '1.5.8'
 
     developerId = 'miladcoder'
     developerName = 'Milad Seifoori'
