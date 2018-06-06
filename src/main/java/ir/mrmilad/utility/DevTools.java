@@ -917,4 +917,66 @@ public class DevTools {
     public PersianDate getToday(Context context) {
         return DateConverter.civilToPersian(new CivilDate(makeCalendarFromDate(new Date(), context)));
     }
+
+    /**
+     * Open Dial pad intent
+     *
+     * @param activity
+     * @param number
+     */
+    public static void OpenDialPad(Activity activity, String number) {
+        Intent intent = new Intent(Intent.ACTION_DIAL);
+        intent.setData(Uri.parse("tel:" + number));
+        activity.startActivity(intent);
+    }
+
+    /**
+     * Open Sms intent
+     *
+     * @param activity
+     * @param number
+     * @param body
+     */
+    public static void OpenSMS(Activity activity, String number, String body) {
+        Intent intent = new Intent(Intent.ACTION_VIEW);
+        intent.setData(Uri.parse("sms:" + number));
+        intent.putExtra("sms_body", body);
+        activity.startActivity(intent);
+    }
+
+    /**
+     * Open Email Intent
+     *
+     * @param activity
+     * @param to
+     * @param subject
+     * @param body
+     */
+    public static void OpenEmail(Activity activity, String to, String subject, String body) {
+        Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
+                "mailto", to, null));
+        intent.putExtra(Intent.EXTRA_SUBJECT, subject);
+        intent.putExtra(Intent.EXTRA_TEXT, body);
+        activity.startActivity(intent);
+    }
+
+    /**
+     * Change ProgressBar Color
+     *
+     * @param activity
+     * @param progressBarId
+     * @param color
+     */
+    public static void ChangeProgressColor(Activity activity,int progressBarId,int color){
+        ProgressBar progressBar = (ProgressBar) activity.findViewById(progressBarId);
+        progressBar.getIndeterminateDrawable().setColorFilter(activity.getResources().getColor(color), PorterDuff.Mode.MULTIPLY);
+    }
+
+    public void applyFontToView(View view, Typeface typeface) {
+        if (view instanceof TextView) {
+            TextView tv = (TextView) view;
+            tv.setTypeface(typeface);
+        }
+    }
+
 }

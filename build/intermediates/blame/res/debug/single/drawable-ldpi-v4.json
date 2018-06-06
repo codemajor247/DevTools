@@ -4,12 +4,12 @@
         "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-ldpi/ic_check_black_24dp.png"
     },
     {
-        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_refresh_black_24dp.png",
-        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-ldpi/ic_refresh_black_24dp.png"
-    },
-    {
         "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_pan_tool_black_24dp.png",
         "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-ldpi/ic_pan_tool_black_24dp.png"
+    },
+    {
+        "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_refresh_black_24dp.png",
+        "source": "/Users/miladseifoori/Android/Library/DevTools/build/generated/res/pngs/debug/drawable-ldpi/ic_refresh_black_24dp.png"
     },
     {
         "merged": "/Users/miladseifoori/Android/Library/DevTools/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_info_outline_black_24dp.png",
